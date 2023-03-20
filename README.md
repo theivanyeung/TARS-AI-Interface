@@ -2,6 +2,8 @@
 
 **TARS AI Interface (Optical Circular Structure)**
 
+![localhost_3000_and_11_more_pages_-_Personal_-_Microsoft__Edge_2023-03-20_14-27-47_AdobeExpress_AdobeExpress_AdobeExpress](https://user-images.githubusercontent.com/58407773/226470882-704d4396-9842-45b3-bcd3-806137b9b901.gif)
+
 ---
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
